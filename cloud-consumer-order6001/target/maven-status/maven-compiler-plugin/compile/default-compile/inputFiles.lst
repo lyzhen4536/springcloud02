@@ -1,0 +1,6 @@
+/Users/liuyuanzhen/IdeaProjects/springcloud02/cloud-consumer-order80/src/main/java/com/lyz/java/controller/OrderController.java
+/Users/liuyuanzhen/IdeaProjects/springcloud02/cloud-consumer-order80/src/main/java/com/lyz/myrule/MySelfRule.java
+/Users/liuyuanzhen/IdeaProjects/springcloud02/cloud-consumer-order80/src/main/java/com/lyz/java/config/ApplicationContextConfig.java
+/Users/liuyuanzhen/IdeaProjects/springcloud02/cloud-consumer-order80/src/main/java/com/lyz/java/lb/MyLB.java
+/Users/liuyuanzhen/IdeaProjects/springcloud02/cloud-consumer-order80/src/main/java/com/lyz/java/Main80.java
+/Users/liuyuanzhen/IdeaProjects/springcloud02/cloud-consumer-order80/src/main/java/com/lyz/java/lb/ILoadBalancer.java
