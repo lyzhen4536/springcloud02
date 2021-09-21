@@ -12,9 +12,6 @@ spring:
         ####搜索目录
           search-paths:
             - springcloud02-config
-          force-pull: true
-          username: lyzhen4536@163.com
-          password: 745367lyz.
       ####读取分支
       label: master
 #rabbitmq相关配置
@@ -30,7 +27,7 @@ eureka:
     service-url:
       defaultZone: http://localhost:7001/eureka
 
-##rabbitmq相关配置,暴露bus刷新配置的端点
+#rabbitmq相关配置,暴露bus刷新配置的端点
 management:
   endpoints: #暴露bus刷新配置的端点
     web:
